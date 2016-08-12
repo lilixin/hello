@@ -1,4 +1,2 @@
 # hello
-notes anytime
-
-this is a test
+随手记
